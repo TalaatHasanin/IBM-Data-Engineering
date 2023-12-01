@@ -1,0 +1,38 @@
+2023-Nov-29-19:15:33,Preliminaries complete. Initiating ETL process
+2023-Nov-29-19:15:34,Data extraction complete. Initiating Transformation process
+2023-Nov-29-19:15:35,Data transformation complete. Initiating loading process
+2023-Nov-29-19:15:35,Data saved to CSV file
+2023-Nov-29-19:15:35,SQL Connection initiated
+2023-Nov-29-19:15:35,Data loaded to Database as table, Executing queries
+2023-Nov-29-19:15:35,Process Complete
+2023-Nov-29-19:15:35,Server Connection closed
+2023-Nov-29-19:46:26,Preliminaries complete. Initiating ETL process
+2023-Nov-29-19:46:28,Data extraction complete. Initiating Transformation process
+2023-Nov-29-19:46:28,Data transformation complete. Initiating loading process
+2023-Nov-29-19:46:28,Data saved to CSV file
+2023-Nov-29-19:46:28,SQL Connection initiated
+2023-Nov-29-19:46:28,Data loaded to Database as table, Executing queries
+2023-Nov-29-19:46:28,Process Complete
+2023-Nov-29-19:46:28,Server Connection closed
+2023-Nov-29-23:11:35,Preliminaries complete. Initiating ETL process
+2023-Nov-29-23:11:37,Data extraction complete. Initiating Transformation process
+2023-Nov-29-23:11:37,Data transformation complete. Initiating loading process
+2023-Nov-29-23:11:37,Data saved to CSV file
+2023-Nov-29-23:11:37,SQL Connection initiated
+2023-Nov-29-23:11:37,Data loaded to Database as table, Executing queries
+2023-Nov-29-23:11:37,Process Complete
+2023-Nov-29-23:11:37,Server Connection closed
+2023-Nov-29-23:12:24,Preliminaries complete. Initiating ETL process
+2023-Nov-29-23:12:25,Data extraction complete. Initiating Transformation process
+2023-Nov-29-23:12:25,Data transformation complete. Initiating loading process
+2023-Nov-29-23:12:25,Data saved to CSV file
+2023-Nov-29-23:12:25,SQL Connection initiated
+2023-Nov-29-23:12:25,Data loaded to Database as table, Executing queries
+2023-Nov-29-23:12:25,Process Complete
+2023-Nov-29-23:12:25,Server Connection closed
+2023-Nov-29-23:13:14,Preliminaries complete. Initiating ETL process
+2023-Nov-29-23:13:16,Data extraction complete. Initiating Transformation process
+2023-Nov-29-23:13:16,Data transformation complete. Initiating loading process
+2023-Nov-29-23:13:16,Data saved to CSV file
+2023-Nov-29-23:13:16,SQL Connection initiated
+2023-Nov-29-23:13:16,Data loaded to Database as table, Executing queries
