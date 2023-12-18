@@ -8,7 +8,7 @@ I have compiled all the work I completed during the IBM Data Engineering Certifi
 
 1. Introduction to Data Engineering
 2. Python for Data Science, AI & Development
-3. Python Project for Data Engineering
+3. [Python Project for Data Engineering](https://github.com/TalaatHasanin/IBM-Data-Engineering/tree/main/Python%20Project%20for%20Data%20Engineering)
 4. Introduction to Relational Databases (RDBMS)
 5. Databases and SQL for Data Science with Python
 6. Hands-on Introduction to Linux Commands and Shell Scripting
